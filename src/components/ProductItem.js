@@ -2,9 +2,10 @@ import React from "react";
 
 const ProductItem = ({ info, addToCart }) => {
   const { id, productName, icon, price, inventory } = info;
+  /*  const [filtered, setFiltered] = useState([]); */
 
   return (
-    <li key={id}>
+    <li className="storeItem" key={id}>
       {productName} <i>{icon}</i>
       <h5>{price}€</h5>
       <h6>{inventory} items in stock</h6>

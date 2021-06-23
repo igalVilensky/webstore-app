@@ -4,8 +4,7 @@
     "productName": "apple",
     "icon": "🍏",
     "price": 3,
-    "inventory": 10,
-    "_img": "./img/food.jpeg"
+    "inventory": 10
   },
   {
     "id": 1,
@@ -44,6 +43,41 @@
   },
   {
     "id": 6,
+    "productName": "sushi",
+    "icon": "🍣",
+    "price": 33,
+    "inventory": 3
+  },
+  {
+    "id": 7,
+    "productName": "sushi",
+    "icon": "🍣",
+    "price": 33,
+    "inventory": 3
+  },
+  {
+    "id": 8,
+    "productName": "sushi",
+    "icon": "🍣",
+    "price": 33,
+    "inventory": 3
+  },
+  {
+    "id": 9,
+    "productName": "sushi",
+    "icon": "🍣",
+    "price": 33,
+    "inventory": 3
+  },
+  {
+    "id": 10,
+    "productName": "sushi",
+    "icon": "🍣",
+    "price": 33,
+    "inventory": 3
+  },
+  {
+    "id": 11,
     "productName": "sushi",
     "icon": "🍣",
     "price": 33,
